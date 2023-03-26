@@ -1,0 +1,6 @@
+streamlit
+streamlit_folium
+plotly
+matplotlib 
+folium
+Bs4
